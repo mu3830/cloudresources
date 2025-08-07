@@ -170,29 +170,14 @@ exit
 
 ---
 
-## **What Students Learned So Far:**
+## **Learned So Far:**
 
-✅ **Compute:** VM runs nginx web server with direct file deployment  
-✅ **Networking:** VNet provides private network isolation between groups  
-✅ **Linux Skills:** File editing, permissions, and system administration  
-✅ **Network Understanding:** Private vs Public IP addressing
+**Compute:** VM runs nginx web server with direct file deployment  
+**Networking:** VNet provides private network isolation between groups  
+**Linux Skills:** File editing, permissions, and system administration  
+**Network Understanding:** Private vs Public IP addressing
 
 ### **Key Demonstrations Completed:**
 - **Direct VM Development:** Copying and editing files on cloud servers
 - **Network Isolation:** /28 subnets provide group separation
 - **Private IP Communication:** Can ping within group, not across groups
-- **Server Administration:** Real Linux server management skills
-
----
-
-## **RECAP on Learning**
-
-✅ **Compute:** VM runs nginx web server with direct file creation  
-✅ **Networking:** VNet provides private network isolation, public IP allows internet access  
-✅ **Linux Skills:** File editing, permissions, and system administration
-
-### **Key Demonstrations:**
-- **Direct VM Development:** Creating files directly on cloud servers
-- **Network Isolation:** /28 subnets provide tight IP control
-- **Private vs Public IPs:** Internal communication vs internet access
-- **Server Administration:** Real Linux server management skills
